@@ -5,7 +5,7 @@ When you have a [remote](./Remote.md) set up you'll need to bring to move [commi
 You can attach a name and branch name to your command to specify where you're pushing to.
 
 ```
-git push origin man
+git push origin main
 ```
 This command will push the **main** branch to the remote called **origin**. This means any commits that any commits that are in your local wil be **pushed** to the remote.
 
