@@ -10,3 +10,5 @@ Here is a growing collection of resources and helpful commands to know then work
 - [git init](./commands/Init.md)
 
 - [git add](./commands/Add.md)
+
+- [git Commit](./commands/Commit.md)
