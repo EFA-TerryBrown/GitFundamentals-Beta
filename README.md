@@ -11,4 +11,6 @@ Here is a growing collection of resources and helpful commands to know then work
 
 - [git add](./commands/Add.md)
 
-- [git Commit](./commands/Commit.md)
+- [git commit](./commands/Commit.md)
+
+- [git remote](./commands/Remote.md)
