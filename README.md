@@ -18,4 +18,7 @@ Here is a growing collection of resources and helpful commands to know then work
 - [git push](./commands/Push.md)
 
 - [git pull](./commands/Pull.md)
+
 - [git status](./commands/Status.md)
+
+- [git clone](./commands/Clone.md)
